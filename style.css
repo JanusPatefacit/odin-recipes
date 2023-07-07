@@ -1,0 +1,15 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #5C8D89;
+    font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+li {
+    line-height: 1.5;
+}
