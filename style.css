@@ -11,6 +11,10 @@ h1 {
     color: #F4F9F4;
     background-color:  #5C8D89;
 }
+h2 {
+    color: #5C8D89;
+    font-size: 2rem;
+}
 
 li {
     line-height: 1.5;
