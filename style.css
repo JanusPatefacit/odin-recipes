@@ -31,3 +31,8 @@ li {
     margin: 0 auto;
     display: block;
 }
+
+.reference {
+    font-size: 0.7rem;
+    margin-top: 5px;
+}
