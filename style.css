@@ -21,6 +21,13 @@ li {
 }
 
 .recipe-img {
-    width: 32%;
+    width: 100%;
     height: auto;
+    display: block;
+}
+
+.img-container{
+    width: 30%;
+    margin: 0 auto;
+    display: block;
 }
