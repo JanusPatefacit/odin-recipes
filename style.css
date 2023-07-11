@@ -19,8 +19,25 @@ h2 {
     font-size: 2rem;
 }
 
-li {
+.recipe-list li {
     line-height: 1.5;
+    list-style: none;
+}
+
+.recipe-list a:hover{
+    background-color: #74B49B;
+}
+
+.recipe-list a {
+    text-decoration: none;
+    background-color: #A7D7C5;
+    display: inline-block;
+    width: 80%;
+    padding: 12px;
+    margin: 5px;
+    font-weight: 700;
+    color: black;
+
 }
 
 .recipe-img {
