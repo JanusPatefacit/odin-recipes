@@ -1,8 +1,15 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #F4F9F4;
-    margin: 2vw 5vw;
+    background-color: #A7D7C5;
 }
+.content{
+    width: 50vw;
+    background-color: #F4F9F4;
+    padding: 90px;
+    margin: 30px auto;
+    border: 5px solid #5C8D89;
+}
+
 h1, h2, h3, h4, h5, h6 {
     text-align: center;
     font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif
@@ -17,6 +24,11 @@ h1 {
 h2 {
     color: #5C8D89;
     font-size: 2rem;
+}
+
+ul, ol {
+    list-style-position: inside;
+    padding: 0;
 }
 
 .recipe-list li {
@@ -47,7 +59,7 @@ h2 {
 }
 
 .img-container{
-    width: 30%;
+    width: 40%;
     height: auto;
     margin: 0 auto;
     display: block;
