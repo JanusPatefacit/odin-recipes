@@ -46,7 +46,7 @@ ul, ol {
     display: inline-block;
     width: 80%;
     padding: 12px;
-    margin: 5px;
+    margin: 5px 0;
     font-weight: 700;
     color: black;
 
